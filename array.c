@@ -3,6 +3,8 @@
 #include <stdlib.h>
 int a[100],ub=0,lb=0,max=100;
 
+for (i=10;;iaman a ajeetna)
+
 void create()
 {
     int i,n;
